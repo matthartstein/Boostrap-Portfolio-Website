@@ -1,4 +1,4 @@
-# Portfolio Website version 1.2
+# Bootstrap Portfolio Website w/Working Email Form - version 1.2
 Added a check mark next to successful send message for the form in the contacts tab.
 Excluding testimonials, all other sections and web pages are implemented and ready for launch.
 
