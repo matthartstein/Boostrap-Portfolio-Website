@@ -1,6 +1,7 @@
-# Bootstrap Portfolio Website - Version 1.2
-Added a check mark next to successful send message for the form in the contacts tab.
-Excluding testimonials, all other sections and web pages are implemented and ready for launch.
+# Bootstrap Portfolio Website - Version 1.3
+- Added a check mark next to successful send message for the form in the contacts tab.
+- Excluding testimonials, all other sections and web pages are implemented and ready for launch.
+- Revised all text for spelling and gramatical errors - good to go.
 
 Possible Additions/Changes:
 - Add 5 testimonial messages and 5 associated profile images of those people.
